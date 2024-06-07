@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+🔭 My name is Julien Gaudin, and I’m currently working as a Solution Consultant (Pre-Sales).
+🌱 I’m currently learning more about the GitHub ecosystem, for both personal and professional curiosity. 
+🤔 Currently going through the modules from learn.microsoft.com, I’m looking for help with other content/ real-life examples on how to best use GitHub. 
+📫 How to reach me: via a GitHub discussion
+
+Thanks, and have a great day,
+Julien G.
 <!--
 **GaudinJulien/GaudinJulien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
